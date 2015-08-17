@@ -5,6 +5,7 @@
 
 makeCacheMatrix <- function(x = matrix()) {
 
+    # set inverse as NULL
     inverse <- NULL
     
     # set method
